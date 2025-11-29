@@ -1,0 +1,3 @@
+voter_id,name,gender,zone,city,age,passw,hasVoted,eye_template
+10001,Anshul,Male,East,Delhi,18,Anshul123,0,10001.enc
+10002,Rahul sir,Male,East,Noida,18,Rahul123,1,10002.enc
